@@ -1,17 +1,17 @@
 <h1> Fatemeh Nikpanjeh </h1>
-<h2> A physics student, on the road to be a data scientist! </h2>
+<h2> A physics student, on the road to being a data scientist! </h2>
 
-[![Website Badge](https://img.shields.io/badge/-Website-FF9A00?style=flat&logo=Google-Chrome&logoColor=white&link=)]()
+<!-- [![Website Badge](https://img.shields.io/badge/-Website-FF9A00?style=flat&logo=Google-Chrome&logoColor=white&link=)]()
 [![Kaggle](https://img.shields.io/badge/-Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:f.nikp77@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)]#(mailto:f.nikp77@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fatemeh-nikpanjeh)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-A9225C?logo=instagram&logoColor=white&link=https://instagram.com/niki_1443/)](https://www.instagram.com/niki_1443)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-A9225C?logo=instagram&logoColor=white&link=https://instagram.com/niki_1443/)](https://www.instagram.com/niki_1443) -->
 
-- 🎓 I'm a Physics M.Sc. student at Sharif Universiy of Technology, with my research focused in the area of complex systems! You can find more about my M.Sc. project here.
-- 📊 I’m also enthusiastic about Data Science and Machine Learning. There's a few things that I know, some other things that I'm lerning, but still a lot of things I want to know...
+- 🎓 I'm a Physics M.Sc. student at Sharif Universiy of Technology, with my research focused in the area of complex systems! You can find more about my M.Sc. project [here](https://radical-slope-414.notion.site/Tipping-Cascades-fcd779bd2cbd4f3d905b42c3e9bfa6c9).
+- 📊 I’m also enthusiastic about Data Science and Machine Learning. I've got a fair bit of skillset kept in my back pocket, I'm constantly expanding my knowledge, but there's always room to learn and grow.
 - 🎯 By the way, I'm currently open to work, and I'm looking for a data analyst position.
-- 📝 Check out my resume.
-- 📪 How to reach me: f.nikp@gmail.com
+- 📝 Check out [my resume](https://github.com/fnikp/CV/blob/master/CV.pdf)
+- 📪 How to reach me: f.nikp77@gmail.com
 
 ## 🛠️ Skills and Technologies
 
