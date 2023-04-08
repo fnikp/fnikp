@@ -17,6 +17,7 @@
 
 ![](https://img.shields.io/badge/GitHub-informational?style=flat-sqaure&logo=GitHub&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/SQLite-informational?style=flat-sqaure&logo=SQLite&logoColor=white&color=07405E)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=Jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat-square&logo=pandas&logoColor=white&color=150458)
