@@ -9,7 +9,7 @@
 
 - 🎓 I'm a Physics M.Sc. student at Sharif Universiy of Technology, with my research focused in the area of complex systems! You can find more about my M.Sc. project [here](https://radical-slope-414.notion.site/Tipping-Cascades-fcd779bd2cbd4f3d905b42c3e9bfa6c9).
 - 📊 I’m also enthusiastic about Data Science and Machine Learning. I've got a fair bit of skillset kept in my back pocket, I'm constantly expanding my knowledge, but there's always room to learn and grow.
-- 🎯 By the way, I'm currently open to work, and I'm looking for a data analyst position.
+- 🎯 By the way, I'm always looking for new opportunities to apply my skills and make a positive impact, so please don't hesitate to reach out if you have any questions or would like to collaborate!
 - 📝 Check out [my resume](https://github.com/fnikp/CV/blob/master/CV.pdf)
 - 📪 How to reach me: f.nikp77@gmail.com
 
